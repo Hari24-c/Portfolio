@@ -88,6 +88,7 @@ onClick={()=>setModal(key)}
 <a
 href={project.github}
 target="_blank"
+rel="noopener noreferrer"
 className="github-card-btn"
 >
 <FaGithub/> GitHub
